@@ -8,7 +8,9 @@ RULES:
 [Social]
 No real life politics.
 
-Treat other players respectfully
+Treat other players respectfully.
+
+Do not leave the starting galaxy.
 
 [Ships]
 Mass limit: 500k
@@ -21,9 +23,9 @@ Homebase mass limit: 1.3m
 [Planets]
 Do **not** make homebases on planets.
 
-Do **not** mine planets
+Do **not** mine planets.
 
-Do **not** blow up planets
+Do **not** blow up planets.
 
 Planets are used for passive resource income. Use */guide* in-game for more info.
 
