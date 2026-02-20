@@ -1,0 +1,28 @@
+<RuleSets version="0">
+    <RuleSet id="FTL Autocharge" version="0">
+        <Rule alltrue="false" id="entity" type="1" version="0">
+            <Conditions>
+                <Condition type="26" version="0">
+                    <!--SEG_IS_TYPE-->
+                    <IsShip>true</IsShip>
+                    <IsDock>false</IsDock>
+                    <IsTurret>false</IsTurret>
+                    <IsStation>false</IsStation>
+                    <IsAsteroid>false</IsAsteroid>
+                    <IsPlanet>false</IsPlanet>
+                </Condition>
+                <Condition type="5" version="0">
+                    <!--SEG_REACTOR_LEVEL_CONDITION-->
+                    <Capacity>0</Capacity>
+                    <MoreThan>true</MoreThan>
+                </Condition>
+            </Conditions>
+            <Actions>
+                <Action type="2" version="0">
+                    <!--SEG_APPLY_EFFECT-->
+                    <EffectUID>ftl - jump autocharge</EffectUID>
+                </Action>
+            </Actions>
+        </Rule>
+    </RuleSet>
+</RuleSets>

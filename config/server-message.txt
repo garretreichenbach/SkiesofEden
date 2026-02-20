@@ -1,0 +1,42 @@
+INFO:
+Welcome to Skies of Eden modded StarMade. For help, use /guide in chat.
+
+You can join our discord via https://discord.gg/6ubyxxw
+
+RULES:
+
+[Social]
+No real life politics.
+
+Treat other players respectfully
+
+[Ships]
+Mass limit: 500k
+
+[Stations]
+Mass limit: 500k
+
+Homebase mass limit: 1.3m
+
+[Planets]
+Do **not** make homebases on planets.
+
+Do **not** mine planets
+
+Do **not** blow up planets
+
+Planets are used for passive resource income. Use */guide* in-game for more info.
+
+Do **not** use alternative accounts to create invulnerable homebase extractors. This is a bannable offence.
+
+[Fleets]
+Fleets cannot have more than 20 total members and 60 total entities across all members.
+
+Fleets cannot exceed a combined total mass of 500k.
+
+Keep fleets to 1 per sector per faction, and never in planet sectors.
+
+[Other]
+Do not damage or modify server infrastructure such as public warpgates.
+
+Any and all exploits will result in both you and your faction receiving permanent bans.
