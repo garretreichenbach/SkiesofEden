@@ -5,7 +5,7 @@
             <RandomSpawn>false<!--Faction will spawn in a random star system--></RandomSpawn>
             <FixedSpawnSystem>0, 0, 0<!--If random spawn is off, set the location. Will switch to random if system is already taken--></FixedSpawnSystem>
             <Name>Eden Commerce Guild<!--Name of the faction--></Name>
-            <Description>The Trading Guild is a collection of large corporations, formed after the Great Galactic War, in an effort to encourage trade and commerce to avoid a second war.<!--Description of the faction--></Description>
+            <Description>The Eden Commerce Guild is a collection of large corporations, formed after the Great Galactic War, in an effort to encourage trade and commerce to avoid a second war.<!--Description of the faction--></Description>
             <PossiblePresets>Eden Commerce Guild<!--Possible Faction Config presets. Seperate with comma--></PossiblePresets>
             <InitialGrowth>1<!--How many systems are initially taken--></InitialGrowth>
         </Faction>
